@@ -1,4 +1,3 @@
-![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <h1 align="center">Привет, я Станислав 👋</h1>
 <h3 align="center">Фронтенд-разработчик</h3>
@@ -27,6 +26,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ### 📊 Статистика GitHub
 
