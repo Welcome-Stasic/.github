@@ -44,7 +44,7 @@
 
 ### 📈 Динамика активности
 
-[![GitHub 3D Chart](https://raw.githubusercontent.com/Welcome-Stasic/Welcome-Stasic/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/yoshi389111/github-profile-3d-contrib) 
+[![GitHub 3D Chart](https://raw.githubusercontent.com/Welcome-Stasic/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/yoshi389111/github-profile-3d-contrib) 
 
 ---
 
