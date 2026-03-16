@@ -1,19 +1,8 @@
-<div align="justify">
-  
-<a href="https://t.me/wwirrrt">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
 
-
-</div>
-
-<p></p>
 
 <p align="justify">
 Привет! Меня зовут Станислав, я фронтенд-разработчик. Специализируюсь на <strong>React, TypeScript и современном JavaScript</strong>. Постоянно учусь новому и стремлюсь создавать удобные и красивые интерфейсы.
 </p>
-
----
 
 ## Мой любимый стек технологий ⚙️
 
@@ -34,11 +23,11 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/nextjs-icon.svg" alt="Next.js" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
       <br>Next.js
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
       <br>Node.js
     </td>
     <td align="center" width="96">
@@ -149,7 +138,7 @@
 <details>
   <summary>👁️ Просмотры профиля</summary>
   <br/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Welcome-Stasic.Welcome-Stasic&left_text=👀%20ПРОСМОТРЫ&right_color=brightgreen" alt="Просмотры профиля" />
+ <img src="https://komarev.com/ghpvc/?username=Welcome-Stasic&label=👀%20ПРОСМОТРЫ&color=brightgreen&style=for-the-badge" alt="Просмотры профиля" />
 </details>
 
 ---
