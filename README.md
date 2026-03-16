@@ -28,12 +28,7 @@
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-### 📊 Статистика GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Welcome-Stasic&show_icons=true&theme=radical&count_private=true&include_all_commits=true" style="margin: 10px; width: 45%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Welcome-Stasic&layout=compact&theme=radical&langs_count=8" style="margin: 10px; width: 45%;" />
-</p>
+### Статистика GitHub
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Welcome-Stasic&theme=radical" style="margin: 10px; width: 70%;" />
@@ -42,14 +37,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Welcome-Stasic&theme=react-dark&bg_color=20232a&hide_border=true" style="margin: 10px; width: 95%;" />
 </p>
-
-
-### 🏆 Достижения
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Welcome-Stasic&theme=radical&no-frame=true&row=2&column=4" style="margin: 10px;" />
-</p>
-
 
 ### ✨ Немного обо мне
 
