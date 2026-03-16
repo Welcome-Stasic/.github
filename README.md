@@ -1,11 +1,11 @@
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 <h1 align="center">Привет, я Станислав 👋</h1>
 <h3 align="center">Фронтенд-разработчик</h3>
 
 <p align="center">
   <a href="https://t.me/wwirrrt"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
-
----
 
 ### 🛠️ Мой стек технологий
 
@@ -27,7 +27,6 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
----
 
 ### 📊 Статистика GitHub
 
@@ -44,7 +43,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Welcome-Stasic&theme=react-dark&bg_color=20232a&hide_border=true" style="margin: 10px; width: 95%;" />
 </p>
 
----
 
 ### 🏆 Достижения
 
@@ -53,11 +51,14 @@
 </p>
 
 
-### 🌐 3D график активности
+### ✨ Немного обо мне
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+- 🔭 Сейчас работаю над **интересными фронтенд-проектами**  
+- 🌱 Учу **TypeScript и Next.js**  
+- 👯 Хочу сотрудничать в **open-source React-библиотеках**  
+- 💬 Спрашивай про **React, JavaScript, вёрстку**   
+- ⚡ Факт: обожаю чёрный кофе ☕
 
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Welcome-Stasic&color=ff69b4&label=👀+Просмотров+профиля" alt="просмотры" />
