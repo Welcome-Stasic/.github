@@ -107,10 +107,8 @@
       <br>Webpack
     </td>
     <td align="center" width="96">
-        <a href="#teacher-cheater-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="36" height="36" alt="git" />
-      </a>
-      <br>git
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEZWil3CMPi_oxEgTaf16tBnG9ZobYXWk06w&s" width="36" height="36" alt="git" />
+      <br>jest
     </td>
   </tr>
 </table>
