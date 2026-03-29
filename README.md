@@ -150,9 +150,9 @@
 
 ## Достижения 🏆
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Welcome-Stasic&row=1&margin-w=40&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=Welcome-Stasic&row=1&margin-w=40&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
----
+----->
 
 <img src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" alt="Динозаврик" />
 
