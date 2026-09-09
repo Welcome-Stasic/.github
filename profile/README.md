@@ -6,11 +6,14 @@
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,nodejs,html,css,tailwind,bootstrap,jquery,php,wordpress" />
+  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,emotion,mui,html,css,jest" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm,vite,webpack,jest" />
+  <img src="https://skillicons.dev/icons?i=nodejs,php,mysql,postgres,nest,npm,docker" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,discord" />
 </p>
 
 <br>
