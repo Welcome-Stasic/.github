@@ -1,148 +1,39 @@
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-      <br>Next.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
-      <br>REST API
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-      <br>Figma
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
-      <br>jQuery
-    </td>
-    <td align="center" width="96">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP4OTKpbTsTQqB18t5kBsJbLnD-f2buEgZdg&s" width="48" height="48" alt="MobX" />
-      <br>MobX
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-      <br>PHP
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
-      <br>WordPress
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-      <br>VS Code
-    </td>
-    <td align="center" width="96">
-        <img src="https://img.icons8.com/color/1200/npm.jpg" width="36" height="36" alt="npm" />
-      <br>npm
-    </td>
-    <td align="center" width="96">
-        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="36" height="36" alt="Material UI" />
-      <br>MUI
-    </td>
-    <td align="center" width="96">
-        <img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
-      <br>Vite
-    </td>
-    <td align="center" width="96">
-        <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="36" height="36" alt="Webpack" />
-      <br>Webpack
-    </td>
-    <td align="center" width="96">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEZWil3CMPi_oxEgTaf16tBnG9ZobYXWk06w&s" width="36" height="36" alt="git" />
-      <br>jest
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&fontAlign=39&reversal=false&section=footer&textBg=false&descAlignY=100"
+    width="100%"
+  />
+</div>
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,nodejs,html,css,tailwind,bootstrap,jquery,php,wordpress" />
+</p>
 
-## Статистика GitHub 📊
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm,vite,webpack,jest" />
+</p>
 
-<details>
-  <summary>⭐ Общая статистика</summary>
-  <br/>
-    <img src="https://github-widgets.netlify.app/api/v1/user-stats.svg?userName=Welcome-stasic" alt="User Stats" />
-  <br/>
-</details>
+<br>
 
-<details>
-  <summary>📈 График активности</summary>
-  <br/>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="График активности" src="https://github-readme-activity-graph.vercel.app/graph?username=Welcome-Stasic&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true" />
-  </a>
-</details>
+<div align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Welcome-Stasic&theme=transparent&hide_border=true&border_radius=3.8&locale=ru&timezone=%2B5"
+    alt="График активности"
+  />
+</div>
 
-<details>
-  <summary>🔥 Текущий стрик</summary>
-  <br/>
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Welcome-Stasic&theme=default&hide_border=true" />
-  </a>
-</details>
+<br>
 
-<details>
-  <summary>👁️ Просмотры профиля</summary>
-  <br/>
- <img src="https://komarev.com/ghpvc/?username=Welcome-Stasic&label=ПРОСМОТРЫ&color=brightgreen&style=for-the-badge" alt="Просмотры профиля" />
-</details>
+<div align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=Welcome-stasic&label=VIEWS&color=2563eb&style=flat-square"
+    alt="Просмотры профиля"
+  />
+</div>
 
----
-
-## Достижения 🏆
-
-<img src="https://github-profile-trophy-tawny.vercel.app/?username=Welcome-stasic&theme=radical&no-frame=true&no-bg=true&margin-w=4"/>
-
-
-<img src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" alt="Динозаврик" />
-
-![](https://raw.githubusercontent.com/Welcome-stasic/Welcome-stasic/main/profile-3d-contrib/profile-night-rainbow.svg)
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:1e3a8a,100:0f172a&height=110&section=footer"
+    width="100%"
+  />
+</div>
